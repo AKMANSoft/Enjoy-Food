@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://www.njoyful.com/api/login/bartender?X-API-KEY=null&amp;is_mobile=true&amp;email=kitchen@york.com&amp;password=1234" uri="xml-resources/web-service-references/bartender_X-API-KEY_null_is_mobile_true_email_kitchen_york/wsdl/www.njoyful.com/api/login/bartender.X-API-KEY_null_is_mobile_true_email_kitchen_york.com_password_1234"/>
+    <system systemId="https://www.njoyful.com/api/login/bartender?X-API-KEY=null&amp;is_mobile=true" uri="xml-resources/web-service-references/bartender_X-API-KEY_null_is_mobile_true_email_kitchen_york/wsdl/www.njoyful.com/api/login/bartender.x-api-key_null_is_mobile_true"/>
+    <system systemId="https://www.njoyful.com/api/bartender/orders/format/json?id=132&amp;X-API-KEY=t197SL1746977197vSGStOpM74660343&amp;is_mobile=true&amp;status=ORDER" uri="xml-resources/web-service-references/json_id_132_X-API-KEY_t197SL1746977197vSGStOpM74660343_is_mobile_true_status_ORDER/wsdl/www.njoyful.com/api/bartender/orders/format/json.id_132_x-api-key_t197sl1746977197vsgstopm74660343_is_mobile_true_status_order"/>
+</catalog>
